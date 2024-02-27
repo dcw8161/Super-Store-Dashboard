@@ -46,5 +46,6 @@ By analyzing these patterns, we can derive actionable insights:
 
 Remember that this analysis is based on the fictitious Tableau Superstore dataset, but the principles apply broadly to real-world scenarios as well.
 
-Tableau Link
+## Link to Tableau
+[SUPER STORE DASHBOARD](https://public.tableau.com/views/SampleSuperStoreData_17090453237870/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
